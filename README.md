@@ -6,6 +6,7 @@ para este projeto serão necessários:
 
 *Hardware*
 - Arduino/Genuino UNO (ou derivada)
+- Cabo USB
 - Protoboard
 - 4 LEDs de cores diferentes
 - 4 Botões
