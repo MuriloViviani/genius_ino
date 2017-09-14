@@ -1,2 +1,16 @@
 # genius_ino
-Arduino's version of the game Genius
+A versão para Arduino do jogo Genius!
+
+# Itens necessários
+para este projeto serão necessários:
+
+*Hardware*
+- Arduino/Genuino UNO (ou derivada)
+- Protoboard
+- 4 LEDs de cores diferentes
+- 4 Botões
+- Jumper Cables
+- Buzzer
+
+*Software*
+- [IDE Arduino](https://www.arduino.cc/en/Main/Software)
