@@ -9,9 +9,9 @@ para este projeto serão necessários:
 - Cabo USB
 - Protoboard
 - 4 LEDs de cores diferentes
-- 4 Resistores de 220 Ohms ou 330 Ohms (para as LEDs)
+- 4 Resistores de 220 Ohms (Vermelho, Vermelho, Marrom) ou 330 Ohms (Laranja, Laranja, Marrom) (para as LEDs)
 - 4 Botões
-- 4 Resistores de 10K Ohms (para os botões)
+- 4 Resistores de 10K Ohms (Marrom, Preto, Laranja) (para os botões)
 - Jumper Cables
 - Buzzer
 
@@ -26,10 +26,10 @@ Em sua protoboard, realize as ligações elétricas assim como mostrado na image
 
 Sendo as portas:
 ```
--> 13 - Ligada ao pino positivo do Led Azul
--> 12 - Ligada ao pino positivo do Led Vermelho
--> 11 - Ligada ao pino positivo do Led Amarelo
--> 10 - Ligada ao pino positivo do Led Verde
+-> 13 - Ligada ao pino positivo do LED Azul
+-> 12 - Ligada ao pino positivo do LED Vermelho
+-> 11 - Ligada ao pino positivo do LED Amarelo
+-> 10 - Ligada ao pino positivo do LED Verde
 ```
 E as portas
 ```
@@ -44,5 +44,5 @@ e por fim as portas
 -> 5 - Ligada a outra linha lateral, de preferencia a com o risco vermelho (Positivo)
 ```
 
-Lembre-se de colocar tambem os devidos resistores nos LEDs (resistores de 220 ou 330 Ohms) e nos Botões (resistores de 10K Ohms)
+Lembre-se de colocar tambem os devidos resistores nos LEDs (resistores de 220 (Vermelho, Vermelho, Marrom) ou 330 Ohms (Laranja, Laranja, Marrom)) e nos Botões (resistores de 10K Ohms (Marrom, Preto, Laranja))
 
