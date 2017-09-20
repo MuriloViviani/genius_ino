@@ -46,7 +46,7 @@ Junto com a porta
 e por fim as portas
 ```
 -> GND - Ligada a uma das trilhas laterais, de preferencia a com o risco azul (Negativo)
--> 5v - Ligada a outra linha lateral, de preferencia a com o risco vermelho (Positivo)
+-> 5v - Ligada a outra trilha lateral, de preferencia a com o risco vermelho (Positivo)
 ```
 
 Lembre-se de colocar tambem os devidos resistores nos LEDs (resistores de 220 (Vermelho, Vermelho, Marrom) ou 330 Ohms (Laranja, Laranja, Marrom)) e nos Botões (resistores de 10K Ohms (Marrom, Preto, Laranja)), junto com os jumpers necessários para o negativo de cada componente (sejam os LEDs, Botões ou o Buzzer)
